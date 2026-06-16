@@ -1,0 +1,50 @@
+Resuming from weights.json
+GA: pop=30 gens=40 seeds/eval=4 pieces=300 workers=5
+
+gen  0  best   118.5  mean    79.4  (10.9s) *saved
+gen  1  best   118.5  mean    79.8  (11.7s)
+gen  2  best   118.3  mean    97.6  (24.5s)
+gen  3  best   119.0  mean    95.1  (18.7s) *saved
+gen  4  best   118.8  mean    87.5  (12.4s)
+gen  5  best   118.8  mean   100.5  (13.4s)
+gen  6  best   118.3  mean    97.6  (11.9s)
+gen  7  best   118.8  mean    92.8  (11.9s)
+gen  8  best   118.8  mean    96.2  (13.7s)
+gen  9  best   118.8  mean   107.0  (13.8s)
+gen 10  best   118.8  mean   108.9  (14.7s)
+gen 11  best   119.0  mean   108.4  (15.0s)
+gen 12  best   119.0  mean   109.2  (14.5s)
+gen 13  best   118.5  mean   106.1  (14.1s)
+gen 14  best   119.0  mean   101.7  (13.8s)
+gen 15  best   118.8  mean   104.3  (14.9s)
+gen 16  best   118.8  mean   108.6  (13.6s)
+gen 17  best   118.5  mean   113.4  (13.6s)
+gen 18  best   118.8  mean   109.9  (13.6s)
+gen 19  best   118.5  mean   113.8  (14.9s)
+gen 20  best   119.0  mean   115.8  (14.2s)
+gen 21  best   118.8  mean   108.5  (14.2s)
+gen 22  best   118.5  mean   117.1  (15.2s)
+gen 23  best   118.8  mean   117.8  (14.6s)
+gen 24  best   118.8  mean   114.0  (14.1s)
+gen 25  best   119.0  mean   114.2  (13.3s)
+gen 26  best   118.5  mean   110.3  (13.1s)
+gen 27  best   119.0  mean   117.8  (13.2s)
+gen 28  best   119.0  mean   117.7  (13.7s)
+gen 29  best   118.8  mean   113.1  (13.6s)
+gen 30  best   118.8  mean   113.9  (13.4s)
+gen 31  best   119.0  mean   115.7  (13.4s)
+gen 32  best   119.0  mean   115.2  (13.1s)
+gen 33  best   118.8  mean   118.0  (13.1s)
+gen 34  best   118.8  mean   118.0  (13.2s)
+gen 35  best   118.5  mean   115.0  (13.2s)
+gen 36  best   119.0  mean   118.1  (13.1s)
+gen 37  best   118.5  mean   109.5  (13.1s)
+gen 38  best   119.0  mean   117.4  (13.1s)
+gen 39  best   119.0  mean   118.2  (13.1s)
+
+Training done in 557s. Best fitness: 119.0 mean lines.
+Saved to /Users/johnnytanskanen/Desktop/programming/tetrisml/terminal/weights.json
+
+Benchmark (longer games, unseen seeds):
+  hand-tuned           397.8 lines / 1000 pieces (avg over 5 games)
+  learned              344.0 lines / 1000 pieces (avg over 5 games)

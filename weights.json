@@ -1,0 +1,20 @@
+{
+  "weights": {
+    "lines_cleared": 1.0,
+    "holes": -6.912,
+    "aggregate_height": -3.5209,
+    "bumpiness": 2.4078,
+    "wells": -3.217,
+    "row_transitions": -1.7561,
+    "col_transitions": -14.416,
+    "max_height": 2.0832,
+    "perfect_clear": 5.76,
+    "landing_height": -6.4131
+  },
+  "meta": {
+    "method": "genetic algorithm (self-play)",
+    "fitness_mean_lines": 119.0,
+    "generation": 3,
+    "eval_pieces": 300
+  }
+}
